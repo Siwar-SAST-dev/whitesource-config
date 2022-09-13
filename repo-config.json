@@ -2,7 +2,8 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": []
+    "baseBranches": [], 
+    "enableSAST":false
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
