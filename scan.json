@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "Siwar-SAST-dev/SAST-manual",
+      "branchName": "diff",
+      "scanType" : "SAST",
+      "uploadScannerLogs": true
+    }
+  ]
+}
