@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "Siwar-SAST-dev/New-SAST",
+      "branchName": "main",
+      "scanType" : "SAST",
+      "uploadScannerLogs": true
+    }
+  ]
+}
