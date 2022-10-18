@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "Siwar-SAST-dev/haysam-sast2",
+      "branchName": "main",
+      "scanType" : "SAST",
+      "uploadScannerLogs": true
+    }
+  ]
+}
