@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "Siwar-SAST-dev/Siwar-QA2",
+      "branchName": "main",
+      "scanType" : "SAST",
+      "uploadScannerLogs": false
+    }
+  ]
+}
